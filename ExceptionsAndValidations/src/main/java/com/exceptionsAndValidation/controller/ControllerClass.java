@@ -1,6 +1,5 @@
 package com.exceptionsAndValidation.controller;
 
-import org.springframework.boot.autoconfigure.graphql.GraphQlProperties.Http;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
